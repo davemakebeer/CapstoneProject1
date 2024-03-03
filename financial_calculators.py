@@ -3,8 +3,6 @@
 #   1. An investment calculator
 #   2. A home loan repayment calculator
 
-# Test text
-
 """Pseudocode
 
 Import math functions
